@@ -6,7 +6,9 @@
  - 👨‍🏫 მე მომწონს ვებ პროგრამირების უნარების სწავლება, ასევე სტუდენტებისა და თანამემამულე პროგრამისტების დახმარება (შეძლებისდაგვარად)
 - 🌱 ამჟამად ვცდილობ შვქმნა ონლინ კურსები ვებ პროგრამირების შესახებ ![Website](https://webprograming.net.ge)
 - 👨‍💻 წაიკითხეთ ჩემი სტატიები და გაკვეთილები ![Website](https://webprograming.net.ge)
- 
+ [youtube]: https://www.youtube.com/@DaveGrayTeachesCode
+[website]: https://www.davegray.codes](https://webprograming.net.ge
+[discord]: https://discord.gg/neKghyefqh
 # Hello and Welcome 👋, I'm Dave Gray
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCY38RvRIxYODO4penyxUwTg?label=SUBSCRIBERS&logo=Youtube&style=for-the-badge)
